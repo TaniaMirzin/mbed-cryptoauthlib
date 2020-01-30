@@ -1,4 +1,6 @@
 cryptoauthlib/docs/
+cryptoauthlib/test/
+cryptoauthlib/app/secure_boot/
 cryptoauthlib/python/
 cryptoauthlib/third_party/
 cryptoauthlib/test/cmd-processor.c
